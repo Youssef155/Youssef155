@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **yousifkhaleel00@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1z22xpX2InZ_iBu1GogEEElmKTI8GFvBM/view?usp=sharing](https://drive.google.com/file/d/1z22xpX2InZ_iBu1GogEEElmKTI8GFvBM/view?usp=sharing)
+- 📄 Know about my experiences at [my resume](https://drive.google.com/file/d/1z22xpX2InZ_iBu1GogEEElmKTI8GFvBM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
