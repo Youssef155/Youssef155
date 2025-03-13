@@ -1,5 +1,10 @@
-# 💫 About Me:
-Hi 👋, I'm Youssef George<br>A passionate software engineer<br>🌱 I’m currently studying Professional Development & BI-infused CRM @ ITI
+<h1 align="center">Hi 👋, I'm Youssef George</h1>
+<h3 align="center">I'm a Software Engineer, Full Stack (.NET) Developer</h3>
+
+- 👀 I’m interested in Web Development & AI
+- 🌱 I’m currently studying Professional Development & BI-infused CRM @ ITI
+- 📫 How to reach me: **yousifkhaleel00@gmail.com**
+- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1bi1A25XGCjbdE8pHg_zt_8lN0EdJdgZQ/view?usp=sharing)
 
 
 ## 🌐 Socials:
