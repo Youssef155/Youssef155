@@ -4,7 +4,7 @@
 - 👀 I’m interested in Web Development & AI
 - 🌱 I’m currently studying Professional Development & BI-infused CRM @ ITI
 - 📫 How to reach me: **yousifkhaleel00@gmail.com**
-- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1xYDKRv60HLsSJh4xlpt17DNItyWlguTE/view?usp=sharing)
+- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/13ZmBK24OvXuQ6bfIeUj7PxNp_BHpWQG9/view?usp=sharing)
 
 
 ## 🌐 Socials:
